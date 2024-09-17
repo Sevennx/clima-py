@@ -6,4 +6,3 @@
 
 ### API RestFull OpenWeather
 
-#### Eduzera
